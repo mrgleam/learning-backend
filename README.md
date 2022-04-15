@@ -2,6 +2,8 @@
 
 ## Get started
 
+macOS
+
 ```
 brew install golang-migrate
 brew install sqlc
