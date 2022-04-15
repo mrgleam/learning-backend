@@ -1,5 +1,12 @@
 # Learning Backend
 
+## Get started
+
+```
+brew install golang-migrate
+brew install sqlc
+```
+
 ## DB schema
 https://dbdiagram.io/d/62597fb72514c9790339a7ac
 
