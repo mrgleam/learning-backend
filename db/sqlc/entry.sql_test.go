@@ -48,7 +48,7 @@ func TestGetEntry(t *testing.T) {
 	require.Equal(t, entry1.CreatedAt, entry2.CreatedAt, time.Second)
 }
 
-func TestListEntires(t *testing.T) {
+func TestListEntries(t *testing.T) {
 	for i := 0; i < 10; i++ {
 		account := createRandomAccount(t)
 		createRandomEntry(t, account)
